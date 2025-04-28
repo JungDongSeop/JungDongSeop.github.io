@@ -1,0 +1,5 @@
+title: JungDongSeop's Blog
+description: Welcome to my personal blog!
+baseurl: "" # 도메인 주소가 jungdongseop.github.io면 빈칸
+url: "https://jungdongseop.github.io"
+theme: minima # 기본 테마 사용
